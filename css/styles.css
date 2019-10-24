@@ -1,0 +1,18 @@
+.sidebar {
+  width: 30%;
+  float: right;
+  text-align: center;
+  border: 2px black solid;
+  padding: 4px;
+  background-color: orange;
+}
+
+.image {
+  float: left;
+  border: 2px red solid;
+}
+
+.main {
+  padding: 10px;
+  float: none;
+}
